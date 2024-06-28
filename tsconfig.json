@@ -6,6 +6,7 @@
     "jsx": "react",
     "esModuleInterop": true,
     "skipLibCheck": true,
+    "declaration": true,
     "forceConsistentCasingInFileNames": true,
     "outDir": "./lib",
     "rootDir": "./src"

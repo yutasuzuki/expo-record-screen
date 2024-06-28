@@ -1,7 +1,9 @@
 {
+  "name": "expo-record-screen",
   "version": "1.0.0",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "description": "React Native Record Screen for Expo.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
@@ -14,5 +16,7 @@
   "devDependencies": {
     "typescript": "~5.3.3"
   },
-  "private": true
+  "keywords": ["react native", "expo", "react native record screen"],
+  "private": true,
+  "license": "MIT"
 }
