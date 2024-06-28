@@ -17,6 +17,5 @@
     "typescript": "~5.3.3"
   },
   "keywords": ["react native", "expo", "react native record screen"],
-  "private": true,
   "license": "MIT"
 }
